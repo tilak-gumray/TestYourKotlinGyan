@@ -22,4 +22,4 @@ There are a lot of kotlin concets incorporated while building this app to mentio
 
 (v) The mutable map and the immutable list helped in dealing with the in memory data appropriately.
 
-(vi) And of course used the 'val' and 'var' variables through out the code
+(vi) And of course used the 'val' and 'var' variables used through out the code
