@@ -7,7 +7,7 @@ This a Kotlin Quiz App which tests our Kotlin Knowledge gained.
 
 Kotlin is used as primary language for building this android application.
 
-There are a lot of kotlin concets incorporated while building this app to mention some:
+There are a lot of kotlin concepts incorporated while building this app to mention some:
 
 (i)Kotlin data classes were used in building the data model for the application as i just needed only member variables holding data for  my application
    in few places and really did not needed the whole class itself.
