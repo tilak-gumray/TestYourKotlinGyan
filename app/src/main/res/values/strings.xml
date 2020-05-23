@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestYourKotlinGyan</string>
+    <string name="appname">"
+                                    Test
+                                Your  Kotlin
+                                    Gyan
+                           "</string>
+    <string name="btntext">Begin Test</string>
+</resources>
